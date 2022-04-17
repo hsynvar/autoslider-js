@@ -13,7 +13,7 @@ next.onclick=function(){
     siruz()
     setInterval(() => {
         siruz()
-    }, 4000);
+    }, 5000);
 }
 
 function siruz(){
@@ -26,4 +26,4 @@ function siruz(){
 
 var stopInterval=setInterval(() => {
     siruz()
-}, 2000);
+}, 3000);
